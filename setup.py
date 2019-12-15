@@ -46,4 +46,3 @@ setup(name="SimpleCV",
   },
 
   )
-#hi Ramesh
